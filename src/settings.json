@@ -1,0 +1,66 @@
+{
+    "rowCount": 10,
+    "columnCount": 10,
+    "playerPointColor": "blue",
+    "newPlayerPointColor": "#3333FFaa",
+    "treasurePointColor": "red",
+    "closerPointColor": "#b67ed9",
+    "fartherPointColor": "#e58f8f",
+    "equiDistantColor": "#9cd3c4",
+    "cellSelected":"#000000",
+    "colors": {
+        "treasurePosition": "#0000FF",
+        "startPosition": "#00FF00"
+    },
+    "flair": {
+        "active": {
+            "textColor": "dark",
+            "backgroundColor": "#46D160"
+        },
+        "ended": {
+            "textColor": "light",
+            "backgroundColor": "#EA0027"
+        }
+    },
+    "pinnedPost": {
+        "title": "Play Mouse & Cheese"
+    },
+    "guesserRewardForSolve": 10,
+    "guesserRewardForFirstSolve": 10,
+    "authorRewardForCorrectGuess": 5,
+    "authorRewardForFailure":10,
+    "postLiveSpan": 86400000,
+    "authorRewardForSubmit": 10,
+    "maxMoveCount": 10,
+    "theme": {
+       "primary": "#000000",
+    "secondary": "#07495F",
+    "tertiary": "#0E92BE",
+    "weak": "#B2B2B2",
+    "background": "#56CCF2",
+    "shadow": "rgba(0,0,0,0.2)",
+    "orangered": "#FF4500"
+    },
+    "images":{
+        "cheese":{
+            "image":"cheese.png",
+            "width":"32",
+            "height":"27"
+        },
+        "mouse":{
+            "image":"mouse.png",
+            "width":"31",
+            "height":"32"
+        },
+        "mouse_active":{
+            "image":"mouse-active.png",
+            "width":"31",
+            "height":"32"
+        },
+        "background":{
+            "image":"background.png",
+            "width":"512",
+            "height":"512"
+        }
+    }
+}
